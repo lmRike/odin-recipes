@@ -9,8 +9,8 @@
 h1 {
 
     text-align: center;
-    
     font-style: italic;
+    margin: 40px;
 }
 
 ul {
@@ -18,4 +18,13 @@ ul {
     color: aliceblue;
     font-size: large;
     font-weight: bolder;
+
+}
+
+.li1, 
+.li2,
+.li3
+{
+
+    margin-bottom: 18px;
 }
